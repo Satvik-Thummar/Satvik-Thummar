@@ -1,16 +1,17 @@
 <h1 align="center">Hi 👋, I'm Satvik Thummar</h1>
 <h3 align="center">A passionate frontend & Backend developer from India</h3>
 
-<center>
+<br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=satvik-9&label=Profile%20views&color=0e75b6&style=flat" alt="satvik-9" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satvik-9" alt="satvik-9" /></a> </p> -->
 
 <p align="center"> <a href="https://twitter.com/satvik_thummar" target="blank"><img src="https://img.shields.io/twitter/follow/satvik_thummar?logo=twitter&style=for-the-badge" alt="satvik_thummar" /></a> </p>
 
-- 📫 How to reach me -> **contactme@satvikthummar.ml**
+<br>
+<p align="center">- 📫 How to reach me -> <a href="mailto:contactme@satvikthummar.ml">contactme@satvikthummar.ml</a></p>
 
-- 📄 Know about my experiences -> [satvikthummar.cf](satvikthummar.cf)
+<p align="center">- 📄 Know about my experiences -> <a href="https://satvikthummar.cf">satvikthummar.cf</a></p>
 
 <br>
 <h3 align="center">Connect with me:</h3>
