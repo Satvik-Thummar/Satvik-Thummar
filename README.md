@@ -34,5 +34,5 @@
 
 <h3>Visitors Count</h3>
 <p>
-<img align="center" src = "https://profile-counter.glitch.me/rishabh4208/count.svg" alt ="Loading">
+<img align="center" src = "https://profile-counter.glitch.me/Satvik-Thummar/count.svg" alt ="Loading">
 </p><br>
