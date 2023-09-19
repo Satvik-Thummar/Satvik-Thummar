@@ -11,7 +11,7 @@
 <br>
 <p align="center">- 📫 How to reach me -> <a href="mailto:contactme@satvikthummar.ml">contactme@satvikthummar.ml</a></p>
 
-<p align="center">- 📄 Know about my experiences -> <a href="https://satvikthummar.cf">satvikthummar.cf</a></p>
+<p align="center">- 📄 Know about my experiences -> <a href="https://satvik.cf">satvik.cf</a></p>
 
 <br>
 <h3 align="center">Connect with me:</h3>
